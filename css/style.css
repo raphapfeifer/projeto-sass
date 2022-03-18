@@ -84,7 +84,7 @@
 }
 .footer__txt {
   margin: auto;
-  font-size: 14px;
+  font-size: 0.875rem;
 }
 
 .main {
@@ -110,7 +110,7 @@
 }
 .main__title {
   text-decoration: none;
-  font-size: 22px;
+  font-size: 1.375rem;
   color: #464646;
 }
 .main__title:hover {
